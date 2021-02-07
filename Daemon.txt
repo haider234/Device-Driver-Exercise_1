@@ -1,0 +1,27 @@
+
+
+								List of Daemons running on my System
+						  ------------------------------------------------
+
+
+1. init ---> init is the first process started during booting of the computer system. It continues running untill the system is shut down.
+
+2. kthreadd ---> special kernel process on Linux that creates other kernel process
+
+3. sshd ---> provides secure remote login and execution facilities.
+
+4. apache2 ---> an http web server that deliver web content through internet.
+
+5. cpufrequtils ---> allows to adjust clock speed of processor to reduce power consumption.
+
+6. MySQL ---> a relational database management service to store data on web.
+
+7. nfsd ---> provides support for Network File System (NFS).
+
+8. atd ---> allows users to execute jobs at specified times, only once.  
+
+9. sendmail ---> eneral purpose e-mail routing facility that supports many kinds of mail-transfer and delivery methods, including the SMTP(Simple Mail Transfer Protocol) used for e-mail transport over the Internet.
+
+10. snmpd ---> a tool designed for the management and monitoring of network devices.
+
+11. mountd ---> a Remote Procedure Call (RPC) that answers a client request to mount a file system.
